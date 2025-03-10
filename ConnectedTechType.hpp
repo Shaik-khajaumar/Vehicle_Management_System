@@ -1,0 +1,10 @@
+#ifndef CONNECTEDTECHTYPE_HPP
+#define CONNECTEDTECHTYPE_HPP
+
+enum class ConnectedTechType {
+    SMART,
+    DIGITAL,
+    NAVIGATION_ONLY
+};
+
+#endif // CONNECTEDTECHTYPE_HPP
